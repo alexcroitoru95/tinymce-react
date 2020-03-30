@@ -28,12 +28,12 @@
     "author": "Tiny Technologies",
     "license": "Apache-2.0",
     "dependencies": {
-        "prop-types": "^15.6.2"
+        "prop-types": "^15.6.2",
+        "util": "^0.12.2"
     },
     "peerDependencies": {
         "react": "^16.7.0",
-        "react-dom": "^16.7.0",
-        "util": "^0.12.2"
+        "react-dom": "^16.7.0"
     },
     "devDependencies": {
         "@babel/core": "^7.0.0-0",
